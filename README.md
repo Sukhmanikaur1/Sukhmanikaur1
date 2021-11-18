@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sukhmani kaur
-email: ekamwebtech@gmail.com
+-email: ekamwebtech@gmail.com
 
 
 <!---
